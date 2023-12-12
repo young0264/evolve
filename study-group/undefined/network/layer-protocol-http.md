@@ -2,7 +2,7 @@
 description: ']https://young1403.tistory.com/83https://young1403.tistory.com/83'
 ---
 
-# 네트워크 (layer, protocol, http)
+# layer, protocol, http
 
 > **네트워크 계층, 4계층**
 
@@ -105,7 +105,7 @@ description: ']https://young1403.tistory.com/83https://young1403.tistory.com/83'
   * **요청에 대한 응답을 받기 기다리지 않고 여러개의 요청을 보내는 것입니다. 응답을 기다리지 않기 때문에 서버와 클라이언트간의 대기 시간을 줄일 수 있습니다.**
   *
 
-      <figure><img src="../../.gitbook/assets/스크린샷 2023-12-12 14.27.07.png" alt="" width="375"><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/스크린샷 2023-12-12 14.27.07.png" alt="" width="375"><figcaption></figcaption></figure>
   *   먼저 보낸 요청이 완료되기 전에 다음 요청을 보내는 기술이다. 수신측 응답을 기다리지 않고 우선 송신측에서 요청을 보내 다음 응답까지의 대기시간을 없애, 네트워크 성능을 향상 시킨다. Keep-Alive를 전제로 하며, 서버는 요청이 들어온 순서대로 응답을 반환합니다.
 
       ***
