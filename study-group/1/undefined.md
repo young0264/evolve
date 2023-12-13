@@ -1,6 +1,6 @@
 # 웹 브라우저 통신 과정
 
-![](<../../.gitbook/assets/스크린샷 2023-06-13 22.25.02.png>)\[chapter 01\_웹브라우저]
+**\[chapter 01\_웹브라우저]**
 
 * **\[1]. HTTP 리퀘스트 메시지를 작성한다.**
   1. **URL (Uniform Resource Locator)**
@@ -81,7 +81,7 @@
                  header( "Location: <http://www.new-url.com>" );
                  ?>
                  ```
-             * 영구 리다이렉션 : 특정 리소스의 URI가 영구적으로 이동
+             * 영구 리다이렉션 : 특정 **리소스의 URI가 영구적으로 이동**
              *
 
                  <figure><img src="../../.gitbook/assets/스크린샷 2023-06-13 22.31.01 (2).png" alt=""><figcaption></figcaption></figure>
@@ -95,7 +95,7 @@
              * **일시 리다이렉션** : 일시적인 변경
                * 주문 완료 후 주문 내역 화면으로 이동
                * **`PRG`** : Post/Redirect/Get
-               *
+               *   PRG 사용 전
 
                    <figure><img src="../../.gitbook/assets/스크린샷 2023-06-13 22.24.48 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -107,6 +107,9 @@
                    *   중복 주문 대신에 결과 화면만 GET으로 다시 요청하는거임
 
                        ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a91979e6-01cd-4cfc-aa6c-ad7faa4e4457/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA\_2023-06-13\_22.25.02.png)
+                   *   PRG 사용 후
+
+                       <figure><img src="../../.gitbook/assets/스크린샷 2023-06-13 22.25.02.png" alt=""><figcaption></figcaption></figure>
 
            → 301과 302 redirect의 차이`??`
 
