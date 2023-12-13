@@ -11,6 +11,7 @@
       * [layer, protocol, http](study-group/undefined/network/layer-protocol-http.md)
     * [Database](study-group/undefined/database/README.md)
       * [what is database ?](study-group/undefined/database/what-is-database.md)
-  * [1%의 네트워크 원리](study-group/1.md)
+  * [1%의 네트워크 원리](study-group/1/README.md)
+    * [웹 브라우저 통신 과정](study-group/1/undefined.md)
   * [자바 ORM 표준 JPA 프로그래밍](study-group/orm-jpa.md)
 * [Page](page.md)
