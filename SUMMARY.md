@@ -9,6 +9,8 @@
   * [면접 스터디](study-group/undefined.md)
     * [Network](study-group/undefined/network/README.md)
       * [layer, protocol, http](study-group/undefined/network/layer-protocol-http.md)
+    * [Database](study-group/undefined/database/README.md)
+      * [what is database ?](study-group/undefined/database/what-is-database.md)
   * [1%의 네트워크 원리](study-group/1.md)
   * [자바 ORM 표준 JPA 프로그래밍](study-group/orm-jpa.md)
 * [Page](page.md)
