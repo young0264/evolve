@@ -1,6 +1,6 @@
 # Docker
 
-<figure><img src="../.gitbook/assets/스크린샷 2023-12-16 21.53.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/스크린샷 2023-12-16 21.53.16.png" alt=""><figcaption></figcaption></figure>
 
 *   **What is Docker?**
 
