@@ -5,6 +5,8 @@
   * [Network](computer-science/network.md)
   * [Operting System](computer-science/operting-system.md)
   * [Database](computer-science/database.md)
+* [Linux](linux/README.md)
+  * [Linux command list](linux/linux-command-list.md)
 * [Infra](infra/README.md)
   * [Traefik](infra/traefik/README.md)
     * [Quick Started(with Docker)](infra/traefik/quick-started-with-docker.md)
