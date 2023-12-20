@@ -19,7 +19,7 @@
 | `exit`                 | 셸 세션을 종료. 해당 세션을 자동으로 닫음                                                                                                                                                                                      |
 | `sudo`                 | ‘superuser do’ 루트 사용자 역할을 할 수 있게 함.                                                                                                                                                                           |
 | `shutdown`             | 컴퓨터 전원을 끔. 중지, 재부팅시 사용 가능                                                                                                                                                                                     |
-| `htop`                 | 시스템 리소스를 관리할 수 있는 대화형 프로세스 뷰어                                                                                                                                                                                 |
+| `htop`                 | <p>시스템 리소스를 관리할 수 있는 대화형 프로세스 뷰어<br>- sudo yum install htop (aws linux htop down)</p>                                                                                                                         |
 | `unzip`                | .zip 파일 추출                                                                                                                                                                                                    |
 | `apt`, `yum`, `pacman` | 패키지 관리자에 액세스하고 Linux 배포판에 따라 하나 또는 다른 패키지 관리자를 사용 Debian 기반(Ubuntu, Linux Mint) : sudo apt install gimp Red Hat 기반(Fedora, CentOS) : sudo yum install gimp Arch 기반(Manjaro, Arco Linux) : sudo pacman -S gimp |
 | `echo`                 | 정의된 텍스트 표시(출력)                                                                                                                                                                                                |
@@ -43,6 +43,8 @@
 | `neofetch`             | Linux 배포판의 ASCII 로고 옆에 커널 버전, 셸, 하드웨어 등 시스템 정보를 표시하는 CLI(명령줄 인터페이스) 도구                                                                                                                                        |
 | `find`                 | <p>정규 표현식을 기반으로 디렉토리 파일 계층 구조를 검색함</p><ul><li>file [flags] [path] -name [expression]</li><li>find ./ -name “long.txt” # long.txt 파일 검색</li></ul>                                                              |
 | `wget`                 | (World Wide Web get) 인터넷에서 파일을 검색합니다.                                                                                                                                                                         |
+
+
 
 
 
