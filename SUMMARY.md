@@ -8,6 +8,7 @@
 * [Linux](linux/README.md)
   * [Linux command list](linux/linux-command-list.md)
 * [Infra](infra/README.md)
+  * [Cloud](infra/cloud.md)
   * [Traefik](infra/traefik/README.md)
     * [Quick Started(with Docker)](infra/traefik/quick-started-with-docker.md)
   * [Docker](infra/docker/README.md)
