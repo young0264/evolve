@@ -1,4 +1,9 @@
-# 웹 브라우저 통신 과정
+---
+description: 웹 브라우저 통신 과정
+coverY: 0
+---
+
+# Internet Communication
 
 **\[chapter 01\_웹브라우저]**
 
