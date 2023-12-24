@@ -8,6 +8,7 @@
 * [Linux](linux/README.md)
   * [Essential Linux Commands](linux/essential-linux-commands.md)
   * [User Management Linux Commands](linux/user-management-linux-commands.md)
+  * [Disk Commands](linux/disk-commands.md)
 * [Infra](infra/README.md)
   * [Cloud](infra/cloud.md)
   * [Traefik](infra/traefik/README.md)
