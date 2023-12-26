@@ -6,6 +6,7 @@
   * [Operting System](computer-science/operting-system.md)
   * [Database](computer-science/database.md)
 * [Linux](linux/README.md)
+  * [nano vs vim](linux/nano-vs-vim.md)
   * [Essential Linux Commands](linux/essential-linux-commands.md)
   * [User Management Linux Commands](linux/user-management-linux-commands.md)
   * [Disk Commands](linux/disk-commands.md)
