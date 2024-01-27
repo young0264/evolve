@@ -45,5 +45,6 @@
 * [Cuisine](cuisine/README.md)
   * [Korean](cuisine/korean/README.md)
     * [Vegetable stock](cuisine/korean/vegetable-stock.md)
-  * [Italian](cuisine/italian.md)
+  * [Italian](cuisine/italian/README.md)
+    * [Mushroom warm salad](cuisine/italian/mushroom-warm-salad.md)
   * [Fine dining](cuisine/fine-dining.md)
