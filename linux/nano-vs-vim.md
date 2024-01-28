@@ -1,6 +1,6 @@
 # nano vs vim(vi)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>vim vs nano</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>vim vs nano</p></figcaption></figure>
 
 nano와 vim 모두 cli 터미널 기반 편집기입니다. nano는 작업이 간편하고 원하는 것을 편집하는데에 도움이 됩니다. Vim은 유연하며 작업을 더 빠르게 완료하고 더 많은 기능을 원하면 Vim으로의 전환을 고려하면 좋습니다.
 
