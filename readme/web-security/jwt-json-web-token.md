@@ -104,5 +104,34 @@ SAML의 경우에는 XML 형식이다. JSON형식의 JWT에 비해서 장황하�
 
 JSON parser는 객체에 직접 매핑되기 때문에 대부분의 프로그램에서 일반적으로 사용된다. 반대로 XML에는 자연스러운 문서-객체 매핑이 없다. SAML보다는 JWT 작업이 더 간결하다고 볼 수 있다. 그렇기에 인터넷규모에서 모바일 등 여러 플랫폼에서 JWT를 사용한 클라이언트 측 처리 용이성이 쉬워지기에 JWT가 대중화 되었다고 볼 수 있다.
 
+
+
+#### JWT 사용시 주의사항
+
+* 시크릿 키의 설정
+  * 문자의 길이가 짧을수록 브루트포스 공격에 취약함
+  * 최소 512 bit (64글자) 이상
+  * 환경변수와 같은 방식으로 안전하게 보관
+* 중요한 데이터
+  * JWT는 Base64URL로 이루어진 문자열. 따라서 decoding만 하면 token에 어떠한 정보들이 들어있는지 바로 파악이 가능함. 따라서 민감하거나 중요한 데이터는 직접적으로 포함하지 않아야 함
+* Signature 검증에 대한 우회
+  * JWT 라이브러리를 사용한다면 크게 고려하지 않아도 됨.
+  *   하지만 직접구현하는 경우, JWT 토근을 검증할 때 단순히 디코딩해서 데이터를 확인하면 안되고, Signature와 Secret-key를 이용해 데이터를 복호화하고 변조되지 않았는지에 대한 검증을 필수로 해야함.
+
+      ```java
+      public boolean validateToken(String jwtToken) {
+          try {
+              Jws<Claims> claims = Jwts.parser().setSigningKey(secretKey).parseClaimsJws(jwtToken);
+              return !claims.getBody().getExpiration().before(new Date()); //현재로부터 시간이 유효한지.
+          } catch (Exception e) {
+              return false;
+          }
+      }
+      ```
+* 암호화 알고리즘 설정
+  *   JWT는 기본으로 HS256(HMAC with SHA-256) 알고리즘을 사용함. 대칭키로 시크릿키가 암/복호화에 모두 사용됨. secret-key가 탈취되면 암/복호화에 모두 취약해져 자유롭게 토큰을 생성하고 변조가능하다라는 단점이 있음.
+
+      RS256과 같은 비대칭키 암호화 알고리즘을 사용해 public-key가 탈취되더라도 private-key를 모르면 디코딩이 불가능하게 설계 가능.
+
 > 참고 : [https://jwt.io/introduction](https://jwt.io/introduction) \
 > JWT debugger : [https://jwt.io/#debugger-io](https://jwt.io/#debugger-io)
