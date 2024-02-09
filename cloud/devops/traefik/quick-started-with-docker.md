@@ -2,9 +2,9 @@
 coverY: 0
 ---
 
-# Quick Started(with Docker)
+# Quick Started(with Docker)
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-12-16 02.47.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-12-16 02.47.10.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -73,7 +73,7 @@ curl 명령어를 통해 'whoami.docker.localhost'라는 이름의 host name을l
 
 
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-12-16 03.25.47.png" alt=""><figcaption><p>docker desktop</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-12-16 03.25.47.png" alt=""><figcaption><p>docker desktop</p></figcaption></figure>
 
 whoami 서비스가 -1, -2로 두개로 스케일링 되어 동작중인 것을 확인할 수 있습니다.
 
@@ -81,11 +81,11 @@ whoami 서비스가 -1, -2로 두개로 스케일링 되어 동작중인 것을 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-12-16 03.23.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-12-16 03.23.34.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-12-16 03.23.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-12-16 03.23.28.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

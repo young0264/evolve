@@ -4,7 +4,7 @@ coverY: 0
 
 # Traefik
 
-<figure><img src="../../.gitbook/assets/스크린샷 2023-12-15 05.17.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/스크린샷 2023-12-15 05.17.27.png" alt=""><figcaption></figcaption></figure>
 
 *   **What is Traefik?**
 
