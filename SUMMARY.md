@@ -23,6 +23,8 @@
       * [Installing Tomcat](cloud/ci-cd/setting-up-ci-cd-pipeline-with-jenkins/installing-tomcat.md)
       * [Jenkins + Infrastructure as Code](cloud/ci-cd/setting-up-ci-cd-pipeline-with-jenkins/jenkins-+-infrastructure-as-code.md)
   * [DevOps](cloud/devops/README.md)
+    * [Infrastructure as Code](cloud/devops/infrastructure-as-code/README.md)
+      * [Ansible](cloud/devops/infrastructure-as-code/ansible.md)
     * [Traefik](cloud/devops/traefik/README.md)
       * [Quick Started(with Docker)](cloud/devops/traefik/quick-started-with-docker.md)
 * [Docker](docker/README.md)

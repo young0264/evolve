@@ -56,8 +56,6 @@ docker run -d --name jenkins-server -p 8080:8080 -p 50000:50000 -v /Users/young/
 * systemctl status docker : docker 상태 확인하기
 * systemctl enable docker : docker 작동으로 만들기
 * systemctl start docker : docker 시작하기
-
-
-
 * docker network inspect bridge : 현재 시스템에서 실행 중인 Docker 컨테이너를 위한 기본 네트워크인 Docker 브릿지 네트워크의 구성 및 설정에 대한 정보를 제공
+* hostname -i : container ip 확인
 
