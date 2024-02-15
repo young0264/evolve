@@ -41,6 +41,7 @@
     * [5.  URL & URI](study-group/java-network-programming/5.-url-and-uri.md)
     * [6. HTTP](study-group/java-network-programming/6.-http.md)
     * [7. URLConnection Class](study-group/java-network-programming/7.-urlconnection-class.md)
+    * [8. Client Socket](study-group/java-network-programming/8.-client-socket.md)
   * [면접 스터디](study-group/undefined.md)
     * [Network](study-group/undefined/network/README.md)
       * [layer, protocol, http](study-group/undefined/network/layer-protocol-http.md)
