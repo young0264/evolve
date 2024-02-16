@@ -22,6 +22,7 @@
     * [Setting up CI/CD Pipeline with Jenkins](cloud/ci-cd/setting-up-ci-cd-pipeline-with-jenkins/README.md)
       * [Installing Tomcat](cloud/ci-cd/setting-up-ci-cd-pipeline-with-jenkins/installing-tomcat.md)
       * [Jenkins + Infrastructure as Code](cloud/ci-cd/setting-up-ci-cd-pipeline-with-jenkins/jenkins-+-infrastructure-as-code.md)
+      * [Ansible](cloud/ci-cd/setting-up-ci-cd-pipeline-with-jenkins/ansible.md)
   * [DevOps](cloud/devops/README.md)
     * [Infrastructure as Code](cloud/devops/infrastructure-as-code/README.md)
       * [Ansible](cloud/devops/infrastructure-as-code/ansible.md)
