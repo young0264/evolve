@@ -57,8 +57,6 @@
     * [Access Circuit & Provider](study-group/1/access-circuit-and-provider.md)
     * [Request Data To Server](study-group/1/request-data-to-server.md)
   * [자바 ORM 표준 JPA 프로그래밍](study-group/orm-jpa.md)
-* [Retrospective](retrospective/README.md)
-  * [2023 retrospective](retrospective/2023-retrospective.md)
 * [Cuisine](cuisine/README.md)
   * [Korean](cuisine/korean/README.md)
     * [Vegetable stock](cuisine/korean/vegetable-stock.md)
