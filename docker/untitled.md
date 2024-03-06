@@ -53,6 +53,21 @@ docker run -d --name jenkins-server -p 8080:8080 -p 50000:50000 -v /Users/young/
 
 
 
+*   docker network inspect bridge : docker 컨테이너들 ip 확인하기
+
+    ```yaml
+    $ docker inspect bridge
+    $ docker network inspect bridge
+    ```
+
+
+
+*   docker stat : 현재 실행중인 컨테이너들의 memory, cpu 사용량/제한 등을 볼 수 있음.
+
+    ```bash
+    $ docker stats
+    참고 : https://docs.docker.com/reference/cli/docker/container/stats
+    ```
 * systemctl status docker : docker 상태 확인하기
 * systemctl enable docker : docker 작동으로 만들기
 * systemctl start docker : docker 시작하기
