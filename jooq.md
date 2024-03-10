@@ -2,7 +2,7 @@
 
 * dslContext란?
   * jooq의 DSL을 사용하여 SQL을 생성 혹은 native SQL 작성 가능
-  * transaction 메서드를 호출하여 트랜잭션 관 가능
+  * transaction 메서드를 호출하여 트랜잭션 관리 가능
 * 특징
   * java 코드 기반의 config 제공
   * type-safe : compile단계에서의 type checking
