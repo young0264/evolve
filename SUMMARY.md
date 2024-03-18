@@ -38,7 +38,7 @@
 * [Kubernetes](kubernetes.md)
 * [jooq](jooq.md)
 * [Error](error.md)
-* [STUDY + GROUP](study-group/README.md)
+* [BOOK + STUDY](study-group/README.md)
   * [자바 성능 튜닝 이야기](study-group/undefined/README.md)
     * [int\[\] vs Integer\[\]](study-group/undefined/int-vs-integer.md)
     * [String vs StringBuilder vs StringBuffer](study-group/undefined/string-vs-stringbuilder-vs-stringbuffer.md)
