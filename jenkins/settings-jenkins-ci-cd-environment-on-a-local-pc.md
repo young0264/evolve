@@ -7,7 +7,7 @@ description: maven, jenkins, github(webhook), ngrok(local) 빌드 배포 과정 
 1. **jenkins 설치 및 github integration plugin 설치**
    *   한가지 의문은 기본 Github plugin에 integrates `Github to Jenkins`라고 적혀있다. ‘github integration plugin’를 따로 설치하라는 글들을 많이 봤는데 정작 본인은 설치하지 않고 webhook으로 코드를 polling해오고 있다. (설치 안해도 통합 잘 됨)
 
-       <figure><img src="../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/Untitled (2) (1).png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="../.gitbook/assets/Untitled (3).png" alt=""><figcaption></figcaption></figure>
 

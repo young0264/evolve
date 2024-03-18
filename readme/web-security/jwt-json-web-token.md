@@ -88,7 +88,7 @@ ECDSA를 사용하여 공개/개인 키 쌍을 사용하여 서명할 수 있습
 
     JWT를 사용해서 접근이 제한된 리소스나 API 에 접근하려면 아래와 같은 순서도로 진행된다.
 
-    <figure><img src="../../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Untitled (2).png" alt=""><figcaption></figcaption></figure>
 
     1. application이나 client에서 서버(혹은 권한 서버)에 인증을 요청한다.
     2. 인증이 되면 권한을 부여받고, 권한 서버는 토큰을 application/client로 돌려주게 된다.
