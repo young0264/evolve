@@ -1,14 +1,10 @@
----
-description: >-
-  github link :
-  https://github.com/young0264/java-playground/blob/main/src/test/java/org/main/basic/OptionalExam.java
----
-
 # Optional
 
 > **Brian Goetz ( Java’s language architect )** has mentioned:
 
 > _Optional is intended to provide a limited mechanism for library method return types where they’re needed to be a clear way to represent “no result,” and using null for such, was overwhelmingly likely to cause errors._
+
+코드 정리 github link : [https://github.com/young0264/java-playground/blob/main/src/test/java/org/main/basic/OptionalExam.java](https://github.com/young0264/java-playground/blob/main/src/test/java/org/main/basic/OptionalExam.java)
 
 → null 을 사용하는 것은 오류를 일으킬 가능성이 높으며, Optional은 메서드의 반환타입으로 제한적으로 쓰이게 ‘결과 없음’을 나타내는 명확한 방법이다.
 
