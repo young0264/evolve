@@ -56,3 +56,6 @@
   * collection, stream, Array, Optional같은 컨테이너 타입은 옵셔널로 감싸면 X
     * 박싱된 타입을 담은 옵셔널을 반환하지 말자. : 두번 감싸기 때문에 너무 무거워짐
   * 성능에 민감한 로직이라면 optional 사용대신 null or Exception 을 던지는 형태로 구현 고려.
+
+> 참고\
+> [https://www.innovect.com/java-optional-shortcomings](https://www.innovect.com/java-optional-shortcomings)
