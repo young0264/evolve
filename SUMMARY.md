@@ -13,6 +13,7 @@
 * [JAVA](java/README.md)
   * [Servlet](java/servlet.md)
   * [Optional](java/optional.md)
+  * [Upcasting & Downcasting](java/upcasting-and-downcasting.md)
 * [Spring](spring/README.md)
   * [Security](spring/security.md)
 * [Test Strategy](test-strategy/README.md)
