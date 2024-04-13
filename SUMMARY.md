@@ -15,6 +15,7 @@
   * [Optional](java/optional.md)
   * [Upcasting & Downcasting](java/upcasting-and-downcasting.md)
 * [Spring](spring/README.md)
+  * [Dependency Relationsh](spring/dependency-relationsh.md)
   * [Bean](spring/bean.md)
   * [Security](spring/security.md)
 * [Test Strategy](test-strategy/README.md)
