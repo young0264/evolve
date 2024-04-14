@@ -18,6 +18,7 @@
   * [Dependency Relationsh](spring/dependency-relationsh.md)
   * [Bean](spring/bean.md)
   * [Security](spring/security.md)
+  * [Strategy for Multiple Bean](spring/strategy-for-multiple-bean.md)
 * [Test Strategy](test-strategy/README.md)
   * [참고 링크](test-strategy/undefined.md)
 * [Linux(ubuntu)](linux/README.md)
