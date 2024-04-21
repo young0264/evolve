@@ -1,8 +1,8 @@
 # Collection, Map
 
-<figure><img src="../../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Untitled (1).png" alt="" width="214"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1) (1).png" alt="" width="214"><figcaption></figcaption></figure>
 
 * Collection : 가장 상위 인터페이스
 * List : 순서가 있는 집합을 처리하기 위한 인터페이스, 인덱스 O, 중복 허용, List interface중 ArrayList를 가장 많이 사용

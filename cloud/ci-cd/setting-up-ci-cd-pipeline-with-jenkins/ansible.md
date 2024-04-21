@@ -225,7 +225,7 @@
     * 정리
       *   생성, 업로드, 삭제
 
-          <figure><img src="../../../.gitbook/assets/Untitled1 (1).png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../../../.gitbook/assets/Untitled1 (1) (1).png" alt=""><figcaption></figcaption></figure>
       *   create-cicd-devops-container.yml 은 docker-server에서만 실행했었음.
 
           * 컨테이너 중지,삭제, image 삭제, docker-hub image download, container image 생성

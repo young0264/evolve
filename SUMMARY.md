@@ -15,6 +15,7 @@
   * [Optional](java/optional.md)
   * [Upcasting & Downcasting](java/upcasting-and-downcasting.md)
 * [Spring](spring/README.md)
+  * [Spring Bean Scope](spring/spring-bean-scope.md)
   * [Spring Bean Life-cycle Callback](spring/spring-bean-life-cycle-callback.md)
   * [Dependency Relationsh](spring/dependency-relationsh.md)
   * [Bean](spring/bean.md)

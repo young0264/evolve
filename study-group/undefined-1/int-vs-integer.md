@@ -10,9 +10,9 @@ description: int[] vs Integer[] performance (primitive type vs wrapper type)
 
 #### 속도 & 메모리 테스트
 
-<figure><img src="../../.gitbook/assets/Untitled1.png" alt=""><figcaption><p>int array test</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled1 (2).png" alt=""><figcaption><p>int array test</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Untitled2.png" alt=""><figcaption><p>Integer array test</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled2 (3).png" alt=""><figcaption><p>Integer array test</p></figcaption></figure>
 
 ```java
 @Test //usedMemory : 603455488 (6억)
