@@ -4,7 +4,7 @@ description: 스프링 시큐리티
 
 # Security
 
-<figure><img src="../.gitbook/assets/Untitled (1) (1) (1).png" alt=""><figcaption><p>spring에서 http request 흐름도</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (1) (1) (1).png" alt=""><figcaption><p>spring에서 http request 흐름도</p></figcaption></figure>
 
 
 

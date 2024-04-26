@@ -45,7 +45,7 @@
 
     *   **싱글톤 스코프**의 빈을 조회하면 스프링 컨테이너는 항상 같은 인스턴스의 스프링 빈을 반환한다.
 
-        <figure><img src="../.gitbook/assets/Untitled.png" alt="" width="563"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Untitled.png" alt="" width="563"><figcaption></figcaption></figure>
     *   반면에 **프로토타입 스코프**일때 스프링 컨테이너에 조회하면 스프링 컨테이너는 항상 새로운 인스턴스를 생성해서 반환한다.
 
         *   **프로토타입 빈 요청1**
@@ -53,10 +53,10 @@
             1. 프로토타입 스코프 빈을 스프링 컨테이너에 요청하여 가져오기 시도
             2. 스프링 컨테이너는 이 시점에 프로토타입 빈을 생성하고, 필요한 의존관계를 주입함.
 
-            <figure><img src="../.gitbook/assets/Untitled1.png" alt="" width="563"><figcaption></figcaption></figure>
+            <figure><img src="../../.gitbook/assets/Untitled1.png" alt="" width="563"><figcaption></figcaption></figure>
         *   **프로토타입 빈 요청2**
 
-            <figure><img src="../.gitbook/assets/Untitled2.png" alt="" width="563"><figcaption></figcaption></figure>
+            <figure><img src="../../.gitbook/assets/Untitled2.png" alt="" width="563"><figcaption></figcaption></figure>
 
             &#x20;3\.  스프링 컨테이너는 생성한 프로토타입 빈을 클라이언트에 반환한다.
 
@@ -109,11 +109,11 @@
     *   **스프링 컨테이너에 프로토타입 빈 직접 요청1**\
 
 
-        <figure><img src="../.gitbook/assets/Untitled1 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Untitled1 (1).png" alt="" width="563"><figcaption></figcaption></figure>
     *   **스프링 컨테이너에 프로토타입 빈 직접 요청2**\
 
 
-        <figure><img src="../.gitbook/assets/Untitled2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/Untitled2 (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
     \
     **싱글톤 빈에서 프로토타입 빈 사용**
@@ -122,7 +122,7 @@
 
     *   **싱글톤에서 프로토타입 빈 사용1**
 
-        <figure><img src="../.gitbook/assets/11.png" alt="" width="563"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/11.png" alt="" width="563"><figcaption></figcaption></figure>
 
         <`clientBean` 은 싱글톤이므로, 보통 스프링 컨테이너 생성 시점에 함께 생성되고, 의존관계 주입도 발생함>
 
@@ -132,7 +132,7 @@
 
     *   **싱글톤에서 프로토타입 빈 사용2**
 
-        <figure><img src="../.gitbook/assets/22.png" alt="" width="563"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/22.png" alt="" width="563"><figcaption></figcaption></figure>
 
         클라이언트 A는 `clientBean` 을 스프링 컨테이너에 요청해서 받는다.싱글톤이므로 항상 같은 `clientBean`이 반환된다.
 
@@ -143,7 +143,7 @@
 
 
 
-        <figure><img src="../.gitbook/assets/33.png" alt="" width="563"><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/33.png" alt="" width="563"><figcaption></figcaption></figure>
 
         클라이언트 B는 `clientBean` 을 스프링 컨테이너에 요청해서 받는다.싱글톤이므로 항상 같은 `clientBean` 이 반환된다.\
 
@@ -256,7 +256,7 @@
 
     * (scope가 request나 session일 때)
 
-    <figure><img src="../.gitbook/assets/스크린샷 2024-04-21 13.54.48.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/스크린샷 2024-04-21 13.54.48.png" alt="" width="563"><figcaption></figcaption></figure>
 
     *   `@Scope(value = "request", proxyMode = ScopedProxyMode.TARGET_CLASS)`
 
