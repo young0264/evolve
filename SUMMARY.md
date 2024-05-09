@@ -21,6 +21,7 @@
     * [Dependency Relationsh](spring/spring-framework/dependency-relationsh.md)
     * [Security](spring/spring-framework/security.md)
     * [Strategy for Multiple Bean](spring/spring-framework/strategy-for-multiple-bean.md)
+    * [Methos of Making External API Calls](spring/spring-framework/methos-of-making-external-api-calls.md)
   * [Spring Cloud](spring/spring-cloud/README.md)
     * [OpenFeign](spring/spring-cloud/openfeign.md)
 * [Test Strategy](test-strategy/README.md)
