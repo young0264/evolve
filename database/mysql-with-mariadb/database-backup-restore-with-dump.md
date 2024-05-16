@@ -10,7 +10,7 @@ description: 현재 db를 기준으로 ddl 파일 만들기(backup) or ddl 파�
 
 * `-h`: MySQL 호스트를 지정
 * `-u`: MySQL 사용자 이름을 지정
-* `-p`: MySQL 암호를 입력할 수 있도록 요청
+* `-p`: MySQL 암호를 입력할 수 있도록 요청 (**-p**이후 비밀번호는 붙여서 적어야함)
 
 ```
 백펍 파일 만들기 예시 : 
@@ -39,12 +39,12 @@ mysql -h [hostname] -u [uname] -p[pass] [db_to_restore] < [backupfile.sql]
 -- 단일 서버 예시 --
 mysql -h mydemoserver.mysql.database.azure.com 
       -u myadmin@mydemoserver 
-      -p testdb < testdb_backup.sql
+      -ptestdb < testdb_backup.sql
       
 
 -- 유연한(?) 서버 예시 --
 mysql -h mydemoserver.mysql.database.azure.com 
       -u myadmin 
-      -p testdb < testdb_backup.sql
+      -ptestdb < testdb_backup.sql
 ```
 
