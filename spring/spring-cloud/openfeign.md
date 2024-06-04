@@ -56,6 +56,7 @@ RestTemplate과 Spring Cloud OpenFeign의 주요 차이점
 
 참고
 
+* feign 적용기(우아한) : [https://techblog.woowahan.com/2630](https://techblog.woowahan.com/2630/)
 * baeldung : [https://www.baeldung.com/netflix-feign-vs-openfeign](https://www.baeldung.com/netflix-feign-vs-openfeign)
 * spring docs : [https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/](https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/)
 * netflix Feign과 OpenFeign의 차이 : [https://www.baeldung.com/netflix-feign-vs-openfeign](https://www.baeldung.com/netflix-feign-vs-openfeign)
