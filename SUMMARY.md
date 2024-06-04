@@ -70,6 +70,7 @@
   * [jooq](open-source/jooq.md)
 * [React](react.md)
 * [Error](error.md)
+* [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [컴퓨터 밑바닥의 비밀](study-group/undefined.md)
   * [자바 성능 튜닝 이야기](study-group/undefined-1/README.md)
