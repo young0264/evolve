@@ -69,6 +69,7 @@
 * [Open Source](open-source/README.md)
   * [jooq](open-source/jooq.md)
 * [React](react.md)
+* [Git](git.md)
 * [Error](error.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
