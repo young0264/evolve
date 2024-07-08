@@ -19,6 +19,8 @@
 * [JAVA](java/README.md)
   * [This is JAVA](java/this-is-java/README.md)
     * [3. operations](java/this-is-java/3.-operations.md)
+    * [4. loop & condition statement](java/this-is-java/4.-loop-and-condition-statement.md)
+    * [5. reference type](java/this-is-java/5.-reference-type.md)
     * [Page 1](java/this-is-java/page-1.md)
   * [Servlet](java/servlet.md)
   * [Optional](java/optional.md)
