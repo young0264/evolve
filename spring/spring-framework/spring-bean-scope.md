@@ -56,7 +56,7 @@
             <figure><img src="../../.gitbook/assets/Untitled1.png" alt="" width="563"><figcaption></figcaption></figure>
         *   **프로토타입 빈 요청2**
 
-            <figure><img src="../../.gitbook/assets/Untitled2.png" alt="" width="563"><figcaption></figcaption></figure>
+            <figure><img src="../../.gitbook/assets/Untitled2 (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
             &#x20;3\.  스프링 컨테이너는 생성한 프로토타입 빈을 클라이언트에 반환한다.
 
