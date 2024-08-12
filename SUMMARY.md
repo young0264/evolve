@@ -21,7 +21,7 @@
     * [3. operations](java/this-is-java/3.-operations.md)
     * [4. loop & condition statement](java/this-is-java/4.-loop-and-condition-statement.md)
     * [5. reference type](java/this-is-java/5.-reference-type.md)
-    * [Page 1](java/this-is-java/page-1.md)
+    * [6. class](java/this-is-java/6.-class.md)
   * [Servlet](java/servlet.md)
   * [Optional](java/optional.md)
   * [Upcasting & Downcasting](java/upcasting-and-downcasting.md)
