@@ -80,6 +80,7 @@
     * [따배씨](kubernetes/cka/undefined/README.md)
       * [Core Concepts](kubernetes/cka/undefined/core-concepts.md)
     * [Udemy](kubernetes/cka/udemy.md)
+    * [기출 정리](kubernetes/cka/undefined-1.md)
 * [Open Source](open-source/README.md)
   * [jooq](open-source/jooq.md)
 * [React](react.md)
