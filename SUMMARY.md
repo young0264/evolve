@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Computer Science](README.md)
+  * [Computer architecture](readme/computer-architecture.md)
   * [Data structure](computer-science/data-structure.md)
   * [Network](computer-science/network/README.md)
     * [VPN(Virtual Private Network)](computer-science/network/vpn-virtual-private-network.md)
