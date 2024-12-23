@@ -1,3 +1,3 @@
-# 컴퓨터 밑바닥의 비밀
+# 기술 아티클 스터디
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+스터디원들과 함께 기술 블로그나 영상을 읽고 의견을 공유하는 스터디
