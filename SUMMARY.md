@@ -92,6 +92,7 @@
   * [HTTP 메서드에서 멱등성이란?](interview/http.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
+  * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
   * [기술 아티클 스터디](study-group/undefined.md)
   * [컴퓨터 밑바닥의 비밀](study-group/undefined-1.md)
   * [자바 성능 튜닝 이야기](study-group/undefined-2/README.md)
