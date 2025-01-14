@@ -90,6 +90,7 @@
   * [@CacheEvict does not working in same class](troubleshooting/cacheevict-does-not-working-in-same-class.md)
 * [Interview](interview/README.md)
   * [HTTP 메서드에서 멱등성이란?](interview/http.md)
+  * [DB Replication 이란?](interview/db-replication.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
