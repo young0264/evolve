@@ -92,6 +92,7 @@
   * [HTTP 메서드에서 멱등성이란?](interview/http.md)
   * [DB Replication 이란?](interview/db-replication.md)
   * [SOLID 원칙에 대한 설명](interview/solid.md)
+  * [세션 기반 인증 방식](interview/undefined.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
