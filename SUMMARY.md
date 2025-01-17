@@ -93,6 +93,7 @@
   * [DB Replication 이란?](interview/db-replication.md)
   * [SOLID 원칙에 대한 설명](interview/solid.md)
   * [세션 기반 인증 방식](interview/undefined.md)
+  * [로드 밸런싱](interview/undefined-1.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
