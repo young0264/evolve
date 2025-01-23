@@ -95,6 +95,7 @@
   * [세션 기반 인증 방식](interview/undefined.md)
   * [로드 밸런싱](interview/undefined-1.md)
   * [캐싱 전략](interview/undefined-2.md)
+  * [ACID란?](interview/acid.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
