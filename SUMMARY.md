@@ -99,6 +99,7 @@
   * [스케일 아웃과 스케일 업](interview/undefined-3.md)
   * [관계형 데이터베이스와 비 관계형 데이터베이스의 차이](interview/undefined-4.md)
   * [시스템 간 비동기 연동 방식?](interview/undefined-5.md)
+  * [Redis가 싱글 스레드로 만들어진 이유](interview/redis.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
