@@ -101,6 +101,7 @@
   * [시스템 간 비동기 연동 방식?](interview/undefined-5.md)
   * [Redis가 싱글 스레드로 만들어진 이유](interview/redis.md)
   * [교착 상태에 대해서 설명](interview/undefined-6.md)
+  * [Call By Value와 Call By Reference에 대해 설명](interview/call-by-value-call-by-reference.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
