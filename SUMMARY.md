@@ -103,6 +103,7 @@
   * [교착 상태에 대해서 설명](interview/undefined-6.md)
   * [Call By Value와 Call By Reference에 대해 설명](interview/call-by-value-call-by-reference.md)
   * [방어적 복사에 대해서 설명](interview/undefined-7.md)
+  * [해시 충돌에 대해서 설명](interview/undefined-8.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
