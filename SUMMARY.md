@@ -105,6 +105,7 @@
   * [방어적 복사에 대해서 설명](interview/undefined-7.md)
   * [해시 충돌에 대해서 설명](interview/undefined-8.md)
   * [URI, URL, URN의 차이점](interview/uri-url-urn.md)
+  * [시스템 콜이란?](interview/undefined-9.md)
 * [KNOU](knou.md)
 * [BOOK + STUDY](study-group/README.md)
   * [Refactoring Study with Toby](study-group/refactoring-study-with-toby.md)
