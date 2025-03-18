@@ -43,6 +43,7 @@
   * [MySQL with MariaDB](database/mysql-with-mariadb/README.md)
     * [database backup , restore (with dump)](database/mysql-with-mariadb/database-backup-restore-with-dump.md)
   * [SQL Mapper vs Java Persistence Api](database/sql-mapper-vs-java-persistence-api.md)
+* [Redis](redis.md)
 * [Design Pattern](design-pattern/README.md)
   * [1. 어댑터 패턴(Adapter pattern)](design-pattern/1.-adapter-pattern.md)
   * [2. 프록시 패턴(Proxy Pattern)](design-pattern/2.-proxy-pattern.md)
