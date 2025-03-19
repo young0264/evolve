@@ -14,7 +14,7 @@ Ansible : IaC 도구인 Ansible 설치 및 사용 Ansible Playbook : Ansible에�
 
 #### **IaC 예시**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * Pulumi
 * Terraform
