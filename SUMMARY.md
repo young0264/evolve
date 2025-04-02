@@ -48,6 +48,7 @@
     * [File Installation(Source)](redis/intall-3ways/file-installation-source.md)
     * [Homebrew(MacOs)](redis/intall-3ways/homebrew-macos.md)
     * [Docker](redis/intall-3ways/docker.md)
+  * [Caching Strategy](redis/caching-strategy.md)
 * [Design Pattern](design-pattern/README.md)
   * [1. 어댑터 패턴(Adapter pattern)](design-pattern/1.-adapter-pattern.md)
   * [2. 프록시 패턴(Proxy Pattern)](design-pattern/2.-proxy-pattern.md)
