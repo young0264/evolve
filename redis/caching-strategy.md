@@ -2,7 +2,7 @@
 
 \[읽기 전략]
 
-1.  \*\*Look Aside(== Cache Aside)\*\*패턴: 캐시가 없을 때 DB에서 조회함.
+1.  **Look Aside(== Cache Aside)**&#xD328;턴: 캐시가 없을 때 DB에서 조회함.
 
     * 캐시가 있는지 먼저 체크하고, 없는 경우(miss)에만 DB에 접근함
     * DB가 (정답) 제대로 된 데이터, 캐시는 보조수단, 가장 많이 사용됨
@@ -66,4 +66,7 @@
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-> \[참고] [https://www.linkedin.com/posts/ashishps1\_top-5-caching-strategies-explained-1-𝐑𝐞𝐚𝐝-activity-7309431214296178688-S6Av/?utm\_source=share\&utm\_medium=member\_android\&rcm=ACoAAC3MX\_QBs8sraw\_w5APeiR7f9aopDa2GZhc](https://www.linkedin.com/posts/ashishps1_top-5-caching-strategies-explained-1-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D-activity-7309431214296178688-S6Av/?utm_source=share\&utm_medium=member_android\&rcm=ACoAAC3MX_QBs8sraw_w5APeiR7f9aopDa2GZhc) [https://inpa.tistory.com/entry/REDIS-📚-캐시Cache-설계-전략-지침-총정리#look\_aside\_패턴](https://inpa.tistory.com/entry/REDIS-%F0%9F%93%9A-%EC%BA%90%EC%8B%9CCache-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5-%EC%A7%80%EC%B9%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC#look_aside_%ED%8C%A8%ED%84%B4)
+> \[참고]\
+> \- [https://www.linkedin.com/posts/ashishps1\_top-5-caching-strategies-explained-1-𝐑𝐞𝐚𝐝-activity-7309431214296178688-S6Av/?utm\_source=share\&utm\_medium=member\_android\&rcm=ACoAAC3MX\_QBs8sraw\_w5APeiR7f9aopDa2GZhc](https://www.linkedin.com/posts/ashishps1_top-5-caching-strategies-explained-1-%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%9D-activity-7309431214296178688-S6Av/?utm_source=share\&utm_medium=member_android\&rcm=ACoAAC3MX_QBs8sraw_w5APeiR7f9aopDa2GZhc) \
+> \
+> \- [https://inpa.tistory.com/entry/REDIS-📚-캐시Cache-설계-전략-지침-총정리#look\_aside\_패턴](https://inpa.tistory.com/entry/REDIS-%F0%9F%93%9A-%EC%BA%90%EC%8B%9CCache-%EC%84%A4%EA%B3%84-%EC%A0%84%EB%9E%B5-%EC%A7%80%EC%B9%A8-%EC%B4%9D%EC%A0%95%EB%A6%AC#look_aside_%ED%8C%A8%ED%84%B4)
